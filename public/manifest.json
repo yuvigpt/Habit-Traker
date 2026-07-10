@@ -5,8 +5,8 @@
     {
       "src": "icon-512.png",
       "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "any maskable"
+      "sizes": "402x396",
+      "purpose": "any"
     }
   ],
   "start_url": "/tracker.html",
