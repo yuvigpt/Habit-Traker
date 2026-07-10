@@ -11,7 +11,7 @@
   ],
   "start_url": "/tracker.html",
   "background_color": "#040c08",
-  "theme_color": "#34d399",
+  "theme_color": "#000000",
   "display": "standalone",
   "orientation": "portrait"
 }
