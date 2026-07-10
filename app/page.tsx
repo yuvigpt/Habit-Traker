@@ -824,7 +824,7 @@ function CarouselStory() {
 /* -------------------------------------------------------------------------- */
 
 function FinalScreen({ onEnterApp }: { onEnterApp: (user: HabitUser) => void }) {
-  const [mode, setMode] = useState<Mode>(null)
+  const [mode, setMode] = useState<any>(null)
 
   return (
     <section
